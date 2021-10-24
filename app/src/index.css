@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  padding: 0;
+  background-color: black;
+  font-family: Poppins, sans-serif;
+}
+
+.my-iframe {
+  padding: 10px;
+  margin: 10px;
+}
